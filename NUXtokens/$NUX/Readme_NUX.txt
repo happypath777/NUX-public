@@ -1,0 +1,14 @@
+NUX
+
+1. NUX token address
+
+https://sepolia.etherscan.io/token/0xd09dd1e872ba1297536F009E6CC5eBe436fBb6C8
+
+0xd09dd1e872ba1297536F009E6CC5eBe436fBb6C8
+
+
+2. Uniswap POOL URL
+https://app.uniswap.org/pools/4897
+
+
+
