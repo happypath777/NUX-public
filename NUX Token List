@@ -1,4 +1,4 @@
-NUX Test Wallet Token List
+Token List for the NUX Test Wallet
 
 I. Ethereum Sepolia Testnet address
 
@@ -6,7 +6,7 @@ I. Ethereum Sepolia Testnet address
 
   $NUX24= 0x69c47a4291b2f1425d06a16569d8fb858e5699da
 
-  $NUXBTCs= 0x6516dC0a2C96e4E0b40D746536750A0f20918Aed
+  $NUXBTC= 0x6516dC0a2C96e4E0b40D746536750A0f20918Aed
 
   $NUXETH= 0xa0297b15674b6f745b60a0721fb74d91ba692452
 
