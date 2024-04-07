@@ -33,7 +33,9 @@ I. Ethereum Sepolia Testnet address (Sorted by activity)
   $NUXSTRK = 0x34083790db1ee70e52a0dc06714baddf86eb7be6
 
   $NUXUSDT= 0xae9963dee6b78dcfaad548f1de22c9673f6480b2
-  
+
+  $NUXUSDC= 0xd14426ea6e6e189f20b88a5343c12de66d5f82ec
+
   $NUXTRX= 0xe85730530d46bcc89dbf727459d245755373cafa
   
   $NUXADA= 0x3220020ef293e944e1b3dedb85d5c9b987c428a6
