@@ -1,3 +1,5 @@
+NUX24 - Tech Stack Reported Issues, observations and possible enhancements
+
 1. $NUXMetamask_io - Notifications to mobile device not displayed as expected and does not take the user to the transaction after a NUX tokent has been sent
 
 2. $NUXUNI - Tokens with large names are not rendered in the UNI very well i.e. no wrapping, cutting off or giving '...'
@@ -10,4 +12,6 @@
 
 6. NUXmetamask_io - Batch import to a wallet would be helpful - i.e. just point to a properly formated github page
 
-7. $NUXUNI - 
+7. $NUXUNI - Uniswap analytics for Sepolia would be helpful and userful as new developers explore the chain
+
+8. General - create more full functional production equalvelent dapps (like Uniswap) on Sepolia for exploration and testing
