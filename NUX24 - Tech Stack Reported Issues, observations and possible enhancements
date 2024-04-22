@@ -4,13 +4,13 @@ NUX24 - Tech Stack Reported Issues, observations and possible enhancements
 
 2. $NUXUNI - Tokens with large names are not rendered in the UNI very well i.e. no wrapping, cutting off or giving '...'
 
-3. $NUXARB - creating a basic token on Sepolia was much easier than ARB testnet- kept getting a remix error then moved effort to Sepolia
+3. $NUXARB - creating a basic token on Sepolia was much easier than ARB testnet for a quick first time prototype - kept getting a remix error then moved effort to Sepolia
 
-4. $NUXalchemy_com - new policy to require 0.001 of the base currency before sending test tokens from the faucets seems to be an unnessary roadblock for development, seems like a better approach would be to encourage a deep understanding of the login account.  Impacts usability however the cost may be worth it from a security perspective.  
+4. $NUXalchemy_com - new policy to require 0.001 of the base currency before sending test tokens from the faucets seems to be an unnessary roadblock for development, seems like a better approach would be to encourage getting a deep understanding and just increase developer engagement via the Alchemy login account.  Impacts usability however the cost may be worth it from a security perspective.  
 
 5. $NUXUNI - in previous version of UNIswap the user could populate their own list of tokens - it would be helpful to bring back the feature to allow users to easily do this 
 
-6. $NUXmetamask_io - Batch import to a wallet would be helpful - i.e. just point to a properly formated github page
+6. $NUXmetamask_io/$NUXUNI - Batch token import to a wallet would be helpful - i.e. just point to a properly formated github page or any public page
 
 7. $NUXUNI - Uniswap analytics for Sepolia would be helpful and userful as new developers explore the chain
 
