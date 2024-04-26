@@ -1,0 +1,2 @@
+Get Involved:
+Are you curious about becoming a part of this ongoing adventure? Email us at NUXMVP@skiff.com to learn more about our collection waitlists, the invitation process, and how you can contribute to the evolution of these collections.
